@@ -30,13 +30,15 @@
   
   **3. Components Used:**
        
-   **Transmitter:**
-       I. Arduino Nano
-       II. NRF24L01 RF Transceiver
-       III. MPU 6050
-       IV. Flex sensor
+   **Transmitter:**  
+   
+       I. Arduino Nano  
+       II. NRF24L01 RF Transceiver  
+       III. MPU 6050  
+       IV. Flex sensor  
        
-   **Receiver:**
+   **Receiver:**  
+   
         i. Arduino Uno
         ii. NRF24L01 RF Transceiver
         iii. Solenoid Lock
