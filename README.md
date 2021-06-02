@@ -4,6 +4,8 @@
  
    This project aims for unlocking the safe using specific series of hands and will have authentication for the same.  
    
+ 
+ 
  **2. Working:**  
 
   This system comprises of two parts transmitter and the reciever part.  
@@ -24,34 +26,42 @@
   system just has to compare with this data.
   
   
+  
+  
   **3. Components Used:**
        
    **Transmitter:**
-   i. Arduino Nano
-   ii. NRF24L01 RF Transceiver
-   iii. MPU 6050
-   iv. Flex sensor
+       i. Arduino Nano
+       ii. NRF24L01 RF Transceiver
+       iii. MPU 6050
+       iv. Flex sensor
        
    **Receiver:**
-   i. Arduino Uno
-   ii. NRF24L01 RF Transceiver
-   iii. Solenoid Lock
-   iv. Piezoelectric Alarm    
+        i. Arduino Uno
+        ii. NRF24L01 RF Transceiver
+        iii. Solenoid Lock
+        iv. Piezoelectric Alarm    
        
+  
+  
   
   **4. Circuit diagram:**  
   
   [![]()
   
   
+
+
 ## Simulation for our project is in the link below:
 
 [![](https://www.tinkercad.com/embed/6cQAeb9IcAR?editbtn=1 "")
+
 
 ### Description of simulation:  
 
 In the actual model we would be using RFID sensor, since that was not available for simulation we have made direct connections in the above simulation.
 Also Flex sensor was also not available so we replaced that tilt sensor.
+
 
 **Working of simulation:**  
 
