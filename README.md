@@ -1,17 +1,21 @@
 # Unlocking-Locker-using-Hand-Signs
 
 **1. Aim:**
-   This project aims for unlocking the safe using specific series of hands and will have authentication for the same 
+   This project aims for unlocking the safe using specific series of hands and will have authentication for the same  
+   
    .
-**2. Working:**
+**2. Working:**  
 
-  This system comprises of two parts transmitter and the reciever part.
-  **A. Transmitter:**
+  This system comprises of two parts transmitter and the reciever part.  
+  
+  **A. Transmitter:**  
+  
       In this part of the system user need to wear gloves and will have to perform specific hand signs.
       This data is transmitted using RFID sensor. Also we have sensing unit which consist of MPU 6050 and flex sensor present on glove.
       Collected data will be transmitted towards receiver through NRF24L01 
       
-  **B. Receiver:**
+  **B. Receiver:**  
+  
         In this part of the system Receiver will collect data(Hand signs) send by Transmitter module and compare with existing provided data.
         If the sign is matched, Microcontroller will give command to open a safe.If it doesn’t,Microcontroller will trigger an alarm.
         This trigger can be turn off only by authenticated user only.
