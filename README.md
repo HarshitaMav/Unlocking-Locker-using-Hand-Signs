@@ -1,10 +1,10 @@
 # Unlocking-Locker-using-Hand-Signs
 
-**1. Aim:**
+ **1. Aim:**
    This project aims for unlocking the safe using specific series of hands and will have authentication for the same  
    
    .
-**2. Working:**  
+ **2. Working:**  
 
   This system comprises of two parts transmitter and the reciever part.  
   
@@ -39,7 +39,8 @@
        iv. Piezoelectric Alarm
        
   
-  **4. Circuit diagram:**
+  **4. Circuit diagram:**  
+  
   [![Image of Circuit with all connections]()
   
   
@@ -47,11 +48,12 @@
 
 [![](https://www.tinkercad.com/embed/6cQAeb9IcAR?editbtn=1 "")
 
-### Description of simulation:
+### Description of simulation:  
+
 In the actual model we use RFID sensor, since that was not available for simulation we have made direct connections in the above simulation.
 Also Flex sensor was also not available so we replaced that tilt sensor.
 
-**Wroking of simulation:**
+**Wroking of simulation:**  
 
 1. Give inputs to the tilt sensor.
 2. This values are checked with the value already provided to simulation if it matches the system displays "Authenticated" otherwise displays "wrong sign"
