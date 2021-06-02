@@ -1,6 +1,7 @@
 # Unlocking-Locker-using-Hand-Signs
 
- **1. Aim:**
+ **1. Aim:**  
+ 
    This project aims for unlocking the safe using specific series of hands and will have authentication for the same.  
    
  **2. Working:**  
@@ -25,17 +26,17 @@
   
   **3. Components Used:**
        
-       **Transmitter:**
-       i. Arduino Nano
-       ii. NRF24L01 RF Transceiver
-       iii. MPU 6050
-       iv. Flex sensor
+   **Transmitter:**
+   i. Arduino Nano
+   ii. NRF24L01 RF Transceiver
+   iii. MPU 6050
+   iv. Flex sensor
        
-       **Receiver:**
-       i. Arduino Uno
-       ii. NRF24L01 RF Transceiver
-       iii. Solenoid Lock
-       iv. Piezoelectric Alarm
+   **Receiver:**
+   i. Arduino Uno
+   ii. NRF24L01 RF Transceiver
+   iii. Solenoid Lock
+   iv. Piezoelectric Alarm    
        
   
   **4. Circuit diagram:**  
