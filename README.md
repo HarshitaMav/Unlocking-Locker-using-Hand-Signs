@@ -31,10 +31,10 @@
   **3. Components Used:**
        
    **Transmitter:**
-       i. Arduino Nano
-       ii. NRF24L01 RF Transceiver
-       iii. MPU 6050
-       iv. Flex sensor
+       I. Arduino Nano
+       II. NRF24L01 RF Transceiver
+       III. MPU 6050
+       IV. Flex sensor
        
    **Receiver:**
         i. Arduino Uno
