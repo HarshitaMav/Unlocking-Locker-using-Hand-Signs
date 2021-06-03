@@ -67,7 +67,7 @@ Also Flex sensor was also not available so we replaced that tilt sensor.
 
 **Working of simulation:**  
 
-1. Give inputs to the tilt sensor.
+1. Takes inputs from the tilt sensor and flex sensor.
 2. This values are checked with the value already provided to simulation if it matches the system displays "Authenticated" otherwise displays "wrong sign"
-3. If user gives wrong inputs 3 times in a row then bell starts beeping.
-4. After bell beeping whole simulation need to be started from the beginning.
+3. If user gives wrong inputs 3 times in a row then buzzer starts beeping.
+4. After buzzer beeping whole simulation need to be started from the beginning.
