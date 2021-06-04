@@ -56,7 +56,7 @@
 
 ## Simulation for our project is in the link below:
 
-[![](https://www.tinkercad.com/embed/6cQAeb9IcAR?editbtn=1 "")
+[Link](https://www.tinkercad.com/embed/6cQAeb9IcAR?editbtn=1 "")
 
 
 ### Description of simulation:  
