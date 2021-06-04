@@ -49,7 +49,7 @@
   
   **4. Circuit diagram:**  
   
-  [![]()
+  [Image](Arduino FLex LCD Tilt Interface.png)
   
   
 
