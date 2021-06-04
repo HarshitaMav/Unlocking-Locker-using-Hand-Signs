@@ -49,7 +49,7 @@
   
   **4. Circuit diagram:**  
   
-  [Image](Arduino FLex LCD Tilt Interface.png)
+  ![Image](https://github.com/aneeshKM/Unlocking-Locker-using-Hand-Signs/blob/main/Arduino%20FLex%20LCD%20Tilt%20Interface.png)
   
   
 
